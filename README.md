@@ -20,6 +20,11 @@ A full-stack web application for tracking daily habits with streak tracking, pro
 - **Styling**: CSS Modules
 - **Build Tool**: Vite
 
+![App Screenshot 1](images/Skärmbild 2025-11-08 142157.png)
+![App Screenshot 2](images/Skärmbild 2025-11-08 142202.png)
+![App Screenshot 3](images/Skärmbild 2025-11-08 142206.png)
+
+
 ## Setup
 
 1. Install dependencies:
